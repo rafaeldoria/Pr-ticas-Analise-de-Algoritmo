@@ -1,0 +1,30 @@
+
+Codigo: 125
+Nome do Aluno: Rafael
+Data: 03/10/1986
+Nota: 9
+
+Codigo: 180
+Nome do Aluno: Mariosvaldo
+Data: 15/11/1988
+Nota: 8
+
+Codigo: 358
+Nome do Aluno: Volnei
+Data: 18/09/1994
+Nota: 8
+
+Codigo: 458
+Nome do Aluno: Marcia
+Data: 31/10/1986
+Nota: 5
+
+Codigo: 879
+Nome do Aluno: Jose
+Data: 03/10/1987
+Nota: 6
+
+Codigo: 4040
+Nome do Aluno: Claudio
+Data: 03/01/1998
+Nota: 9
